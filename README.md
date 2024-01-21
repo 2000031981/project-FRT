@@ -33,10 +33,7 @@ This is a web based application developed for dental care related based website
 ### About Us -
 
 
-
 ![about](https://github.com/2000031981/project-FRT/assets/113927478/b4b9a543-a81d-468f-b0c4-61884e6f0e4b)
-
-
 
 
 ###  Services -
@@ -45,10 +42,7 @@ This is a web based application developed for dental care related based website
 ![services](https://github.com/2000031981/project-FRT/assets/113927478/4524dea3-131a-4fcc-acb0-d80ec5bfd343)
 
 
-
-
 ### Dropdown -
-
 
 
 ![dropdown](https://github.com/2000031981/project-FRT/assets/113927478/385fb573-7593-4286-bb7b-00a1529ad2e3)
@@ -73,12 +67,10 @@ This is a web based application developed for dental care related based website
 ![healthbot](https://github.com/2000031981/project-FRT/assets/113927478/93cd5973-5865-4c11-9096-e608eaf39d36)
 
 
-
 ### Doctors - 
 
 
 ![doctors](https://github.com/2000031981/project-FRT/assets/113927478/31f2d270-8ed6-4df6-ad76-dc879e732542)
-
 
 
 ### Contact Us -
@@ -87,13 +79,10 @@ This is a web based application developed for dental care related based website
 ![contact](https://github.com/2000031981/project-FRT/assets/113927478/fc5ebdc1-58bf-41ad-8f49-597b215d4170)
 
 
-
 ### Privacy policy -
 
 
 ![Screenshot 2024-01-22 001644](https://github.com/2000031981/project-FRT/assets/113927478/7169412e-eb8e-41f4-ab90-88bc2b370c33)
-
-
 
 
 
