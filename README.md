@@ -16,7 +16,7 @@ This is a web based application developed for dental care related based website
 - User-friendly interface and  easy to use.
 - Interactive chatbot for immediate responses.
 - Web pages including Home, About Us, Services, Dropdown, Health Bot, Doctors and  Contact Us.
-- The ability for users to make appointments and get in touch with doctors during the times they have reserved using our website
+- The ability for users to make appointments and get in touch with doctors during the times they have reserved using our website.
 
 
 ## Screenshots
