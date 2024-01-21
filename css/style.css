@@ -505,7 +505,7 @@ li>a:only-child:after {
 
 /* top hearder */
 /* search */
-.search-w3layouts input[type="search"] {
+.search-layouts input[type="search"] {
     outline: none;
     padding: 10px 15px;
     color: #000;
@@ -515,7 +515,7 @@ li>a:only-child:after {
     background: #f7f7f7;
 }
 
-.search-w3layouts button {
+.search-layouts button {
     background: #000;
     color: #fff;
     border: none;
@@ -530,11 +530,11 @@ li>a:only-child:after {
 
 /* //search */
 /* number */
-p.header-top_w3layouts {
+p.header-top_layouts {
     font-size: 17px;
 }
 
-p.header-top_w3layouts span {
+p.header-top_layouts span {
     color: #f9262a;
     font-size: 28px;
     margin-right: 8px;
@@ -776,7 +776,7 @@ h3.title-appoint {
     margin-bottom: 1.4rem;
 }
 
-.main-w3layouts-teams-sectns .form-group,
+.main-layouts-teams-sectns .form-group,
 .booking .form-group {
     margin-bottom: 1.4rem;
 }
@@ -801,7 +801,7 @@ h3.title-appoint {
 /* //appointment */
 
 /* facts */
-.bottom-banner-w3layouts,
+.bottom-banner-layouts,
 .about {
     background: url(../images/bg2.jpg) no-repeat center;
     background-size: cover;
@@ -982,7 +982,7 @@ a.blog-title:hover,
 /* //doctors */
 
 /* contact */
-.main-w3layouts-teams-sectns .form-control {
+.main-layouts-teams-sectns .form-control {
     display: block;
     width: 100%;
     padding: 15px 15px;
@@ -1000,7 +1000,7 @@ a.blog-title:hover,
     background: #fff;
 }
 
-.main-w3layouts-teams-sectns textarea {
+.main-layouts-teams-sectns textarea {
     min-height: 200px;
 }
 
@@ -1190,7 +1190,7 @@ hr {
         font-size: 14px;
     }
 
-    .main-w3layouts-teams-sectns .form-control {
+    .main-layouts-teams-sectns .form-control {
         padding: 14px 15px;
         font-size: 14px;
     }
@@ -1229,11 +1229,11 @@ hr {
 }
 
 @media(max-width: 991px) {
-    p.header-top_w3layouts {
+    p.header-top_layouts {
         font-size: 16px;
     }
 
-    p.header-top_w3layouts span {
+    p.header-top_layouts span {
         font-size: 26px;
     }
 
@@ -1301,11 +1301,11 @@ hr {
         margin: 0 auto;
     }
 
-    p.header-top_w3layouts {
+    p.header-top_layouts {
         font-size: 15px;
     }
 
-    p.header-top_w3layouts span {
+    p.header-top_layouts span {
         font-size: 22px;
     }
 
@@ -1388,7 +1388,7 @@ hr {
         font-size: 28px;
     }
 
-    .main-w3layouts-teams-sectns textarea {
+    .main-layouts-teams-sectns textarea {
         min-height: 170px;
     }
 
@@ -1448,11 +1448,11 @@ hr {
 }
 
 @media(max-width: 320px) {
-    p.header-top_w3layouts {
+    p.header-top_layouts {
         font-size: 14px;
     }
 
-    p.header-top_w3layouts span {
+    p.header-top_layouts span {
         font-size: 20px;
     }
 
@@ -1535,7 +1535,7 @@ hr {
         font-size: 11px;
     }
 
-    .main-w3layouts-teams-sectns .form-control {
+    .main-layouts-teams-sectns .form-control {
         font-size: 13px;
     }
 
