@@ -7,7 +7,7 @@ This is a web based application developed for dental care related based website
 
 
 **Project Link** -  https://calm-bay-0d35a0600.4.azurestaticapps.net
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/2luVFqzFWFg?si=YZo5gizq9qdkbLTE
 
 
 ## Features and Functionalities 😃
